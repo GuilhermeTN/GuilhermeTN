@@ -3,7 +3,7 @@
 <div>
   <span>I love technology, coding and gaming!</span><br>
   <span>I'm have 22 years old</span><br>
-  <span>Lerning javascript, React and NodeJS</span><br>
+  <span>Lerning javascript, React, NodeJS, NestJS and NextJS</span><br>
   <span>Interested in JavaScript, Ruby, Rust and others respective language</span>
 </div>
 
